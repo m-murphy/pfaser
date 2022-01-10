@@ -1,6 +1,8 @@
 #' The 'pfaser' package.
 #'
-#' @description A DESCRIPTION OF THE PACKAGE
+#' @description  pfaser implements a mixture model in stan for the estimation of
+#' strain proportions and phased haplotypes within an infection given whole
+#' genome sequencing read counts.
 #'
 #' @docType package
 #' @name pfaser-package
